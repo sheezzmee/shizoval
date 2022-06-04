@@ -12,10 +12,10 @@ let cheatMenuCode = `
 
         .shizoval__content {
             padding: 15px;
-            background: #140033;
+            background: #8b8c7a;
             box-shadow: 0 5px 15px black;
             font-family: 'Roboto', sans-serif;
-            color: white;
+            color: orange;
             font-size: 0.9375rem;
             font-weight: 500;
             border-radius: 15px;
@@ -30,12 +30,13 @@ let cheatMenuCode = `
 			<p>AirBreak Speed: <font color="#e699ff"><label id="airBreakSpeed">100</label></font></p>
 			<p>Anti-Aim: <font id="antiAimStateColor" color="red"><label id="antiAimState">FALSE</label></font></p>
 			<p>Auto Mining: <font id="autoMiningStateColor" color="red"><label id="autoMiningState">FALSE</label></font></p>
+			<p><font id="OdHackStateColor" color="red"><label id="OdHackState">FALSE</label></font></p>
 		</div>
 
 		<div id="infoWindow">
-			<p>Free cheat for tanki online by sheezzmee</p>
-			<p>Use only on the test server</p>
-			<p><a href="https://github.com/sheezzmee/shizoval" target="_blank" rel="noopener noreferrer">Cheat source</a></p>
+			<p>updated by alastor</p>
+			<p>meker: san</p>
+			<p><a href="https://www.youtube.com/channel/UCZ1fdxIz4zKvSl_TE6CGBNw" target="_blank" rel="noopener noreferrer">my youtube</a></p>
 		</div>
 
 	</div>
